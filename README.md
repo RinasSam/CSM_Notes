@@ -13,6 +13,7 @@ As of now, there are sections for the following:
 - [History](./History)
 - [Literature](./Literature)
 
+From 2023/09/05, I will begin taking notes for as long as I can.
 
 ## License
 

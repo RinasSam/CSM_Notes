@@ -1,6 +1,6 @@
 {
   "commitMessage": "Notes push: {{date}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitDateFormat": "YYYY-MM-DD hh:mm:ss a",
   "autoSaveInterval": 10,
   "autoPushInterval": 60,
   "autoPullInterval": 0,

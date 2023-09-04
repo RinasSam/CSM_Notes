@@ -1,7 +1,7 @@
 
 # CSM Senior Year Notes
 
-This is a list of notes that I am taking during my senior year using Obsidian.
+This is a list of notes that I am taking during my senior year (2023 and 2024) using Obsidian. Anyone is welcome to use my notes, but remember to give credit and abide by the license.
 
 
 ## Content
@@ -12,6 +12,7 @@ As of now, there are sections for the following:
 - [Health](./Health)
 - [History](./History)
 - [Literature](./Literature)
+
 
 ## License
 

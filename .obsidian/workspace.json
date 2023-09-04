@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "18c45d3ed537a11b",
@@ -147,7 +147,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "42c152c3711f5d19",
+  "active": "79649fcc331ba920",
   "lastOpenFiles": [
     "GNU Free Documentation License.md",
     "README.md",

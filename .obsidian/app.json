@@ -1,6 +1,6 @@
 {
   "tabSize": 8,
-  "vimMode": true,
+  "vimMode": false,
   "strictLineBreaks": true,
   "trashOption": "local"
 }

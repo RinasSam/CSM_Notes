@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "39561ce5690f9930",
+    "type": "split",
+    "children": [
+      {
+        "id": "55ec2906eb83c420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79649fcc331ba920",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea5012538deef7cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbb75509e7f1337f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42c152c3711f5d19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3d3f5f07473ba62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d37c57f94234409",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18c45d3ed537a11b",
+    "type": "split",
+    "children": [
+      {
+        "id": "982c4131c635e9a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "709a6fa3485bb108",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43c5bccb63f1a63c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4cd55d15c9ee74d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea215d84601adbd0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "42c152c3711f5d19",
+  "lastOpenFiles": [
+    "this is a test.md",
+    "Autism.md",
+    "Health",
+    "Drama",
+    "Literature",
+    "Calculus",
+    "History"
+  ]
+}

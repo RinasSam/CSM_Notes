@@ -430,7 +430,7 @@ license notices just after the title page:
         Free Documentation License".
 
 If you have Invariant Sections, Front-Cover Texts and Back-Cover
-Texts, replace the "with â€¦ Texts." line with this:
+Texts, replace the "with...Texts." line with this:
 
         with the Invariant Sections being LIST THEIR TITLES, with the
         Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.

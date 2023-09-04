@@ -1,8 +1,17 @@
 
-# CSM Notes
+# CSM Senior Year Notes
 
 This is a list of notes that I am taking during my senior year using Obsidian.
 
+
+## Content
+
+As of now, there are sections for the following:
+- [Calculus](./Calculus)
+- [Drama](./Drama)
+- [Health](./Health)
+- [History](./History)
+- [Literature](./Literature)
 
 ## License
 

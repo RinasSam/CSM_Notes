@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "interfaceFontFamily": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "textFontFamily": "Arial"
 }

@@ -13,14 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GNU Free Documentation License.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c63b9fd94af2a0fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/W1/The Victorian Period.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Literature/W1/The Victorian Period.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Literature/W1/The Victorian Period.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Literature/W1/The Victorian Period.md"
               }
             }
           }
@@ -148,10 +161,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "79649fcc331ba920",
+  "active": "42c152c3711f5d19",
   "lastOpenFiles": [
     "GNU Free Documentation License.md",
+    "Literature/W1/The Victorian Period.md",
     "README.md",
+    "Literature/W1",
+    "Pasted image 20230904215816.png",
     "LICENSE",
     "this is a test.md",
     "Autism.md",

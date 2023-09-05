@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "55ec2906eb83c420",
+        "id": "c2c91682d86866ea",
         "type": "tabs",
         "children": [
           {
-            "id": "79649fcc331ba920",
+            "id": "5ffa6a87455abcc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GNU Free Documentation License.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c63b9fd94af2a0fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/W1/The Victorian Period.md",
+                "file": "Literature/W1/Victorian Period.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/W1/The Victorian Period.md",
+                "file": "Literature/W1/Victorian Period.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/W1/The Victorian Period.md",
+                "file": "Literature/W1/Victorian Period.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/W1/The Victorian Period.md"
+                "file": "Literature/W1/Victorian Period.md"
               }
             }
           }
@@ -163,8 +149,12 @@
   },
   "active": "42c152c3711f5d19",
   "lastOpenFiles": [
+    "Literature/W1/Charles Dickens.md",
+    "Literature/W1/Victorian Period.md",
+    "Literature/W1/Victorian.md",
     "GNU Free Documentation License.md",
-    "Literature/W1/The Victorian Period.md",
+    "\"Victorian.md",
+    "Victorian.md",
     "README.md",
     "Literature/W1",
     "Pasted image 20230904215816.png",

@@ -1,5 +1,5 @@
 
-Charles Dickens was a British writer in the [[Victorian Period]].
+Charles Dickens was a British writer in the [Victorian Period](Victorian%20Period).
 
 
 ## His Novels:

@@ -11,9 +11,11 @@
             "id": "5a618e37ed680f4c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Calculus/Images/exercises_1-4.png"
+                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Images/exercises_1-4.png",
+                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Images/exercises_1-4.png",
+                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Images/exercises_1-4.png"
+                "file": "Calculus/Homeworks/Chapter P.1 Homework.md"
               }
             }
           }
@@ -147,19 +149,31 @@
   },
   "active": "5a618e37ed680f4c",
   "lastOpenFiles": [
-    "Calculus/Images/parabola_x2.png",
     "Calculus/Images/cubic_x3-4x.png",
-    "Calculus/Images/exercises_1-4.png",
     "Calculus/Homeworks/Chapter P.1 Homework.md",
+    "Calculus/Images/exercise_56_graph.png~",
+    "Calculus/Images/exercise_56_graph.png",
+    "Calculus/Images/Pasted image 20230905193558.png",
+    "Calculus/Images/exercise_28_graph.png",
+    "Calculus/Images/exercise_24_graph.png~",
+    "Health/W1/Puberty and Adolesence.md",
+    "Calculus/Images/exercises_1-4.png",
+    "Health/Images",
+    "Health/Images/glands_and_hormones_table.png",
+    "Calculus/Images/parabola_x2.png",
     "Calculus/W1/Chapter P.1.md",
-    "Calculus/Images/Pasted image 20230905180626.png",
-    "Calculus/Images/Pasted image 20230905180557.png",
-    "README.md",
+    "Calculus/Images/exercise_24_graph.png",
+    "Calculus/Images/Pasted image 20230905185850.png",
+    "Calculus/Images/exercise_11_graph.png",
+    "Calculus/Images/parabola_x2.png~",
+    "Calculus/Images/cubic_x3-4x.png~",
     "Health/W1/Infancy and Childhood.md",
+    "Literature/W1/Charles Dickens.md",
+    "Literature/W1/Victorian Period.md",
+    "README.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Drama/Introduction to Drama.md",
-    "Health/W1/Puberty and Adolesence.md",
     "Health/W1",
     "Calculus/Images",
     "GNU Free Documentation License.md",
@@ -167,21 +181,12 @@
     "Pasted.md",
     "History/W1/The Discovery of The Americas.md",
     "History/W1",
-    "Literature/W1/Victorian Period.md",
     "Calculus/Homeworks",
     "Untitled",
-    "Literature/W1/Charles Dickens.md",
-    "Calculus/W1/Exponential function.png",
-    "Calculus/W1",
     "Literature/W1/Victorian.md",
     "\"Victorian.md",
     "Victorian.md",
-    "Literature/W1",
-    "Pasted image 20230904215816.png",
-    "LICENSE",
     "this is a test.md",
-    "Autism.md",
-    "Health",
-    "Drama"
+    "Autism.md"
   ]
 }

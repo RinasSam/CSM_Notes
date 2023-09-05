@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/Homeworks/Chapter P.1 Homework.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,23 +149,26 @@
   },
   "active": "42c152c3711f5d19",
   "lastOpenFiles": [
+    "PDF Exports/Calculus Chapter P.1 Homework.pdf",
+    "Calculus/Homeworks/Chapter P.1 Homework.md",
+    "PDF Exports/Chapter P.1 Homework.md",
+    "PDF Exports/Chapter P.1 Homework-media/f40ea04e2e59b6a0241e7619792717be1bde691b.png",
+    "PDF Exports/Chapter P.1 Homework-media/be32869be112b24ba7ed12ab50ec7302210839f3.png",
+    "PDF Exports/Chapter P.1 Homework-media/4ff3c9c3f27d38820c93587331052ba2b0ccb31a.png",
+    "PDF Exports/Chapter P.1 Homework-media/5dae3d6bd52e8f27c82ac99e86d43cdac2fbaf35.png",
+    "PDF Exports/Chapter P.1 Homework-media/ff2bc6403fcfc9e5f8eceae70e616661fffc41d2.png",
+    "PDF Exports/Chapter P.1 Homework-media/b6769ff4bd8ec2a778ebfe6476ce90f3f18832d2.png",
+    "PDF Exports/Chapter P.1 Homework-media/ce1fd39a559b41083b499d9e07e05898826d3e4e.png",
+    "PDF Exports/Chapter P.1 Homework-media",
+    "PDF Exports",
     "Calculus/Images/exercise_68_graph.png",
     "Health/Images/glands_and_hormones_table.png",
-    "Calculus/Homeworks/Chapter P.1 Homework.md",
     "Calculus/Images/exercise_66_graph.png",
-    "Calculus/Images/cubic_x3-4x.png",
     "Calculus/Images/exercise_56_graph.png~",
-    "Calculus/Images/exercise_56_graph.png",
-    "Calculus/Images/Pasted image 20230905193558.png",
-    "Calculus/Images/exercise_28_graph.png",
     "Calculus/Images/exercise_24_graph.png~",
     "Health/W1/Puberty and Adolesence.md",
-    "Calculus/Images/exercises_1-4.png",
     "Health/Images",
-    "Calculus/Images/parabola_x2.png",
     "Calculus/W1/Chapter P.1.md",
-    "Calculus/Images/exercise_24_graph.png",
-    "Calculus/Images/Pasted image 20230905185850.png",
     "Calculus/Images/parabola_x2.png~",
     "Calculus/Images/cubic_x3-4x.png~",
     "Health/W1/Infancy and Childhood.md",
@@ -181,9 +184,6 @@
     "Calculus%2FW1%2FPasted image 20230905100044.png.md",
     "Pasted.md",
     "History/W1/The Discovery of The Americas.md",
-    "History/W1",
-    "Calculus/Homeworks",
-    "Untitled",
     "Literature/W1/Victorian.md",
     "\"Victorian.md",
     "Victorian.md",

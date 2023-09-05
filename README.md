@@ -12,6 +12,7 @@ As of now, there are sections for the following:
 - [Health](./Health)
 - [History](./History)
 - [Literature](./Literature)
+- [PDF Exports](PDF%20Exports) (used for files that look wrong when viewed on Github)
 
 Each section has folders for the specific week I am writing in. I may add more sections or remove redundant sections as time goes on.
 

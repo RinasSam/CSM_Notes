@@ -26,4 +26,4 @@ Symmetry comes in 3 kinds:
 3. Origin ($y = x$ line) symmetry.
 
 For instance, $x^2$ is symmetric about the $y$ axis:
-![](../Images/parabola_x2.png)
+![img](../Images/parabola_x2.png)

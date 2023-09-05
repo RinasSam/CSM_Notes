@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Literature/W1/Charles Dickens.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Literature/W1/Charles Dickens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Literature/W1/Charles Dickens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Literature/W1/Charles Dickens.md"
               }
             }
           }
@@ -149,7 +149,8 @@
   },
   "active": "42c152c3711f5d19",
   "lastOpenFiles": [
-    "PDF Exports/Calculus Chapter P.1 Homework.pdf",
+    "README.md",
+    "PDF_Exports/Calculus Chapter P.1 Homework.pdf",
     "Calculus/Homeworks/Chapter P.1 Homework.md",
     "PDF Exports/Chapter P.1 Homework.md",
     "PDF Exports/Chapter P.1 Homework-media/f40ea04e2e59b6a0241e7619792717be1bde691b.png",
@@ -160,7 +161,7 @@
     "PDF Exports/Chapter P.1 Homework-media/b6769ff4bd8ec2a778ebfe6476ce90f3f18832d2.png",
     "PDF Exports/Chapter P.1 Homework-media/ce1fd39a559b41083b499d9e07e05898826d3e4e.png",
     "PDF Exports/Chapter P.1 Homework-media",
-    "PDF Exports",
+    "PDF_Exports",
     "Calculus/Images/exercise_68_graph.png",
     "Health/Images/glands_and_hormones_table.png",
     "Calculus/Images/exercise_66_graph.png",
@@ -174,7 +175,6 @@
     "Health/W1/Infancy and Childhood.md",
     "Literature/W1/Charles Dickens.md",
     "Literature/W1/Victorian Period.md",
-    "README.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Drama/Introduction to Drama.md",

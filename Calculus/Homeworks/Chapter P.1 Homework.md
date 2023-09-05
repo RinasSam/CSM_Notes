@@ -1,5 +1,5 @@
 # Homework for [Chapter P.1](../W1/Chapter%20P.1.md):
-*This chapter may look wrong if you are not using Obsidian. Please take a look at the [PDF export](../../PDF_Exports/Calculus%20Chapter%20P.1%20Homework.pdf) instead.*
+*This file may look wrong if you are not using Obsidian. Please take a look at the [PDF export](../../PDF_Exports/Calculus%20Chapter%20P.1%20Homework.pdf) instead.*
 
 ## Q2:
 ![Solution](../Images/exercises_1-4.png)

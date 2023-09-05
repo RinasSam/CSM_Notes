@@ -1,3 +1,4 @@
+*This file may look wrong if you are not using Obsidian. Please take a look at the [PDF export](../../PDF_Exports/Calculus%20Chapter%20P.1.pdf) instead.*
 
 The heart of Calculus is at manipulating functions. As such, it is necessary to be familiar functions and their graphs, alongside important properties that will be crucial for solving and working with them.
 

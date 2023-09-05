@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc68c95f9eadfc6",
+        "id": "550fe6ac3f980d4a",
         "type": "tabs",
         "children": [
           {
-            "id": "5a618e37ed680f4c",
+            "id": "013968899737213c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,9 +147,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "42c152c3711f5d19",
+  "active": "013968899737213c",
   "lastOpenFiles": [
     "Calculus/Homeworks/Chapter P.1 Homework.md",
+    "PDF_Exports/Calculus Chapter P.1.pdf",
     "Calculus/W1/Chapter P.1.md",
     "Health/W1/Puberty and Adolesence.md",
     "Health/W1/Infancy and Childhood.md",
@@ -179,7 +180,6 @@
     "Untitled.canvas",
     "Drama/Introduction to Drama.md",
     "Health/W1",
-    "Calculus/Images",
     "GNU Free Documentation License.md",
     "Calculus%2FW1%2FPasted image 20230905100044.png.md",
     "Pasted.md",

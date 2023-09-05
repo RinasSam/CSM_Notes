@@ -21,8 +21,8 @@
 > Find any intercepts of the equation $y = (x-1)\sqrt{x^2 + 1}$
 
 1. Evaluate at $x = 0$:
-	$y = (0-1)\sqrt{0^2+1}$
-	$y = -\sqrt{1} = -1$
+	$y = (0-1)\sqrt{0^2+1}$  
+	$y = -\sqrt{1} = -1$  
 Therefore, the $y$ intercept of the equation is $(0, -1)$.
 
 2. Evaluate at $y = 0$:

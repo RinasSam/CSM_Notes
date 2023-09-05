@@ -3,5 +3,6 @@
   "vimMode": false,
   "strictLineBreaks": true,
   "trashOption": "local",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Calculus/Images"
 }

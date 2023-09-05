@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Calculus/W1/Chapter P.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Calculus/W1/Chapter P.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Calculus/W1/Chapter P.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Calculus/W1/Chapter P.1.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5a618e37ed680f4c",
+  "active": "42c152c3711f5d19",
   "lastOpenFiles": [
+    "README.md",
+    "Calculus/Images",
     "GNU Free Documentation License.md",
     "Calculus/W1/Chapter P.1.md",
-    "Calculus/W1/Pasted image 20230905100044.png",
-    "Calculus/W1/Pasted image 20230905101539.png",
+    "Calculus/Images/Pasted image 20230905100044.png",
+    "Calculus/Images/Pasted image 20230905101539.png",
     "Calculus%2FW1%2FPasted image 20230905100044.png.md",
     "Pasted.md",
     "History/W1/The Discovery of The Americas.md",
@@ -162,7 +164,6 @@
     "Untitled",
     "Literature/W1/Charles Dickens.md",
     "Calculus/W1/Exponential function.png",
-    "README.md",
     "Calculus/W1",
     "Literature/W1/Victorian.md",
     "\"Victorian.md",
@@ -174,7 +175,6 @@
     "Autism.md",
     "Health",
     "Drama",
-    "Literature",
-    "Calculus"
+    "Literature"
   ]
 }

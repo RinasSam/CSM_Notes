@@ -9,7 +9,8 @@ Intercepts are the places in the graph where the function crosses the X or Y axi
 - $y$ intercept is when $x  = 20$
 
 For instance, *$y = x^3 - 4x$:
-![cubic_x3-4x.png](../Images/cubic_x3-4x.png)
+
+![](../Images/cubic_x3-4x.png)
 The $x$ intercepts are ${(2,0), (0,0), (-2,0)}$*
 The $y$ intercepts is $(0,0)$
 The $y$ intercepts correspond to solutions of the function, the so called *zeros* of the function.

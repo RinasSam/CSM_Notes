@@ -12,7 +12,7 @@ For instance, *Y = X^3 - 4X*:
 ![Y = X^3](../Images/Pasted%20image%2020230905100044.png)
 The X intercepts are *{(2,0), (0,0), (-2,0)}*
 The Y intercepts is *(0,0)*
-The X intercepts correspond to solutions of the function, the so called *zeros* of the function.
+The X intercepts correspond to solutions of the function, the so called *zeros* of the function"".
 
 
 ## Symmetry

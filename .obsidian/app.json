@@ -2,5 +2,6 @@
   "tabSize": 8,
   "vimMode": false,
   "strictLineBreaks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
 }

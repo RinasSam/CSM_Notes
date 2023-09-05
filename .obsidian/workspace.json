@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b649d1384c76ebeb",
+        "id": "fcc68c95f9eadfc6",
         "type": "tabs",
         "children": [
           {
-            "id": "b109afbdbf93ac98",
+            "id": "5a618e37ed680f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/W1/Charles Dickens.md",
+                "file": "Calculus/W1/Chapter P.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/W1/Charles Dickens.md",
+                "file": "Calculus/W1/Chapter P.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/W1/Charles Dickens.md",
+                "file": "Calculus/W1/Chapter P.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/W1/Charles Dickens.md"
+                "file": "Calculus/W1/Chapter P.1.md"
               }
             }
           }
@@ -149,10 +149,13 @@
   },
   "active": "42c152c3711f5d19",
   "lastOpenFiles": [
+    "Calculus/W1/Chapter P.1.md",
+    "Calculus/W1/Pasted image 20230905100044.png",
+    "Calculus/W1/Exponential function.png",
+    "Literature/W1/Charles Dickens.md",
     "README.md",
     "Literature/W1/Victorian Period.md",
     "Calculus/W1",
-    "Literature/W1/Charles Dickens.md",
     "Literature/W1/Victorian.md",
     "GNU Free Documentation License.md",
     "\"Victorian.md",

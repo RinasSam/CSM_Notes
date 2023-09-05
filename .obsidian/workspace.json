@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/W1/Chapter P.1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/W1/Chapter P.1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/W1/Chapter P.1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/W1/Chapter P.1.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "42c152c3711f5d19",
   "lastOpenFiles": [
+    "Calculus/W1/Chapter P.1.md",
     "README.md",
     "Calculus/Images",
     "GNU Free Documentation License.md",
-    "Calculus/W1/Chapter P.1.md",
     "Calculus/Images/Pasted image 20230905100044.png",
     "Calculus/Images/Pasted image 20230905101539.png",
     "Calculus%2FW1%2FPasted image 20230905100044.png.md",

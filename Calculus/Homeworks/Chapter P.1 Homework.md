@@ -114,7 +114,7 @@ Here is a graph for reference:
 
 ## Q66:
 > Find the points of intersection of the following equations:
-   $\left\{ \begin{aligned}   x &= 3 - y^2 \\ y &= x - 1 \end{aligned} \right.$
+   $\left\{ \begin{aligned}   x &= 3 - y^2 \\ y &= x - 1 \end{aligned} \right.$  
 
 1. Solve for $y$ by elimination:  
 	$\left\{ \begin{aligned}   x &= 3 - y^2 \\ y &= x - 1 \end{aligned} \right.$  

@@ -11,7 +11,7 @@ Intercepts are the places in the graph where the function crosses the X or Y axi
 For instance, *$y = x^3 - 4x$:
 
 ![](../Images/cubic_x3-4x.png)
-The $x$ intercepts are ${(2,0), (0,0), (-2,0)}$*
+The $x$ intercepts are ${(2,0), (0,0), (-2,0)}$
 The $y$ intercepts is $(0,0)$
 The $y$ intercepts correspond to solutions of the function, the so called *zeros* of the function.
 
@@ -26,4 +26,4 @@ Symmetry comes in 3 kinds:
 3. Origin ($y = x$ line) symmetry.
 
 For instance, $x^2$ is symmetric about the $y$ axis:
-![X^2](../Images/parabola_x2.png)
+![](../Images/parabola_x2.png)

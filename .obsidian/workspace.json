@@ -11,11 +11,9 @@
             "id": "5a618e37ed680f4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Calculus/W1/Chapter P.1.md",
-                "mode": "preview",
-                "source": true
+                "file": "Calculus/Images/exercises_1-4.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/W1/Chapter P.1.md",
+                "file": "Calculus/Images/exercises_1-4.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/W1/Chapter P.1.md",
+                "file": "Calculus/Images/exercises_1-4.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus/W1/Chapter P.1.md"
+                "file": "Calculus/Images/exercises_1-4.png"
               }
             }
           }
@@ -149,18 +147,22 @@
   },
   "active": "5a618e37ed680f4c",
   "lastOpenFiles": [
+    "Calculus/Images/parabola_x2.png",
+    "Calculus/Images/cubic_x3-4x.png",
+    "Calculus/Images/exercises_1-4.png",
+    "Calculus/Homeworks/Chapter P.1 Homework.md",
+    "Calculus/W1/Chapter P.1.md",
+    "Calculus/Images/Pasted image 20230905180626.png",
+    "Calculus/Images/Pasted image 20230905180557.png",
     "README.md",
     "Health/W1/Infancy and Childhood.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Drama/Introduction to Drama.md",
-    "Calculus/W1/Chapter P.1.md",
     "Health/W1/Puberty and Adolesence.md",
     "Health/W1",
     "Calculus/Images",
     "GNU Free Documentation License.md",
-    "Calculus/Images/Pasted image 20230905100044.png",
-    "Calculus/Images/Pasted image 20230905101539.png",
     "Calculus%2FW1%2FPasted image 20230905100044.png.md",
     "Pasted.md",
     "History/W1/The Discovery of The Americas.md",

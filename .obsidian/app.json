@@ -4,5 +4,7 @@
   "strictLineBreaks": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Calculus/Images"
+  "attachmentFolderPath": "Calculus/Images",
+  "useMarkdownLinks": true,
+  "newFileLocation": "root"
 }

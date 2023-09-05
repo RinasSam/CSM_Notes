@@ -166,4 +166,4 @@ Here is a graph for reference:
 Therefore, the points of intersection are $(-4,3)$ and $(-5, 0)$.
 
 Here is a graph for reference:
-![](exercise_68_graph.png)
+![exercise_68_graph.png](exercise_68_graph.png)

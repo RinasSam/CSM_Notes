@@ -1,6 +1,6 @@
 
 ## Q2:
-![Solution](exercises_1-4.png)
+![Solution](../Images/exercises_1-4.png)
 
 
 ## Q11:
@@ -13,7 +13,7 @@
 | $4$ | $-4$ |
 | $9$ | $-3$ |
 
-![](exercise_11_graph.png)
+![](../Images/exercise_11_graph.png)
 
 
 ## Q24:
@@ -36,7 +36,7 @@ Therefore, the $y$ intercept of the equation is $(0, -1)$.
 Therefore, the $x$ intercept of the equation is $(1, 0)$.
 
 Here is a graph for reference:
-![](exercise_24_graph.png)
+![](../Images/exercise_24_graph.png)
 
 
 ## Q28:
@@ -64,7 +64,7 @@ Therefore, the $y$ intercept of the equation is $0,-1$
 Therefore, the $x$ intercept is $(\sqrt{\frac{1}{3}}, 0)$.
 
 Here is a graph for reference:
-![](exercise_28_graph.png)
+![](../Images/exercise_28_graph.png)
 
 
 ## Q56:
@@ -109,7 +109,7 @@ Here is a graph for reference:
 | $3$ | $1$ |
 | $-3$ | $1$ | 
 
-![](exercise_56_graph.png)
+![](../Images/exercise_56_graph.png)
 
 ## Q66:
 > Find the points of intersection of the following equations:
@@ -134,7 +134,7 @@ Here is a graph for reference:
 Therefore, the points of intersection are $(2,1)$ and $(-2, -1)$.
 
 Here is a graph for reference:
-![](exercise_66_graph.png)
+![](../Images/exercise_66_graph.png)
 
 ## Q68:
 > Find the points of intersection of the following equations:
@@ -166,4 +166,4 @@ Here is a graph for reference:
 Therefore, the points of intersection are $(-4,3)$ and $(-5, 0)$.
 
 Here is a graph for reference:
-![exercise_68_graph.png](exercise_68_graph.png)
+![exercise_68_graph.png](../Images/exercise_68_graph.png)

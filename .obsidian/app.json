@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Calculus/Images",
   "useMarkdownLinks": true,
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "newLinkFormat": "relative"
 }

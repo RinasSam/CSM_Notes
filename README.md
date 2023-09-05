@@ -18,6 +18,8 @@ Each section has folders for the specific week I am writing in. I may add more s
 ## License
 
 >  Copyright (C)  2023-2024  RinasSam.
- > Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
+ > Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "[[GNU Free Documentation License]]".
 
-The repository is licensed under the [GNU Free Documentation License v1.3](./LICENSE). Don't know why it, just is. Basically do not use this without proper attribution and credit, and any derivative must be licensed under GFDL.
+The repository is licensed under the [GNU Free Documentation License v1.3](./LICENSE). This is because I intend for these to be free (as in freedom) for all people to use and learn from. In addition, I wish for proper credit and for all modifications and derivative works to be licensed under the GFDL because knowledge like this must be free for everyone.
+
+Basically do not use this without proper attribution and credit, and any derivative must be licensed under GFDL. You are free to use this for studying, teaching, quoting in your own work, or using in any form of way, provided you comply with the license.

@@ -9,7 +9,6 @@ Intercepts are the places in the graph where the function crosses the X or Y axi
 - Y intercept is when X  = 20
 
 For instance, *Y = X^3 - 4X*
-
 ![Y = X^3](../Images/Pasted%20image%2020230905100044.png)
 The X intercepts are *{(2,0), (0,0), (-2,0)}*
 The Y intercepts is *(0,0)*

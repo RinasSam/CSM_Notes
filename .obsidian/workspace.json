@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drama/Introduction to Drama.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drama/Introduction to Drama.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drama/Introduction to Drama.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drama/Introduction to Drama.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   "active": "42c152c3711f5d19",
   "lastOpenFiles": [
     "Health/W1/Infancy and Childhood.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Drama/Introduction to Drama.md",
     "Calculus/W1/Chapter P.1.md",
     "README.md",

@@ -131,6 +131,39 @@ Here is a graph for reference:
 	$x = 3 - y^2\text{, \ \ \ substitute }y=-2$
 	$x = 3 - (-2)^2 = 3 - 4 = -1$
 
-Therefore, the points of intersection are $(2,1)$ and $(-2, -1)$
+Therefore, the points of intersection are $(2,1)$ and $(-2, -1)$.
 
 Here is a graph for reference:
+![](exercise_66_graph.png)
+
+## Q68:
+> Find the points of intersection of the following equations:
+   $\left\{ \begin{aligned}   x^2 + y^2 &= 25 \\ -3x + y &= 15 \end{aligned} \right.$
+
+1. Solve for $y$:
+	$-3x + y = 15$
+	$y = 3x+15$
+
+2. Solve for $x$ via substitution:
+	$x^2 + y^2 = 25\text{, \ \ \ substitute }y=3x+15$
+	$x^2 + (3x + 15)^2 = 25$
+	$x^2 + 9x^2 + (2)(15)(3)x + 15^2 = 25$
+	$10x^2 + 90x + 225 = 25$
+	$10x^2 +90x +200 = 0$
+	$x^2 + 9x + 20 = 0$
+	$x^2 + 4x + 5x + 20 = 0$
+	$x(x + 4) + 5(x+4) = 0$
+	$(x+4)(x+5) = 0$
+	$x = -4\text{ and }x = -5$
+
+3. Back-substitute to solve for $y$:
+	$y = 3x + 15\text{, \ \ \ substitute }x=-4$
+	$y = 3(-4) + 15 = -12 + 15 = 3$
+	
+	$y = 3x + 15\text{, \ \ \ substitute }x=-5$
+	$y = 3(-5) + 15 = -15 + 15 = 0$
+
+Therefore, the points of intersection are $(-4,3)$ and $(-5, 0)$.
+
+Here is a graph for reference:
+![](exercise_68_graph.png)

@@ -13,6 +13,6 @@ In addition, writing was considered an honourable job in the old times. However,
 - Romanticism focused on emotions and nature, and often times would blow out certain aspects in an unrealistic way for the sake of story telling. In addition, much of their focus was on nature and the upsides of life.
 - - Victorianism took a more realist approach. As such, their writings were distressing and dark, reflecting the cruel world they live in. They attempt to portray the real world and as such focus on day to day lives. 
 
-We may consider Romantic works more entertaining and playful for the mind and imagination of the reader, while Victorian works are more "useful" as a learning tool for people. Their depiction of life can prove to be very useful for people who seek validation for their situations, or want to see how people act in certain cases.
+We may consider Romantic works more entertaining and stimulating for the mind and imagination of the reader, while Victorian works are more "useful" as a learning tool for people. Their depiction of life can prove to be very useful for people who seek validation for their situations, or want to see how people act in certain cases.
 
 

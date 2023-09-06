@@ -100,7 +100,7 @@ Here is a graph for reference:
 		$\text{Substitute }f(x)\text{ for }f(-x)\text{ since they are equal:}$  
 		$f(x)\stackrel{?}{=}-f(x)$  
 		$\text{Since it was shown that }f(x) \ne -f(x)\text{ and since }f(x) = f(-x)\text{, }$   
-		$f(-x) \ne -f(x)$  		$\text{An equation is symmetric with respect to the origin if and only if }f(-x) = -f(x).$  $\text{Since }f(-x) \ne -f(x)\text{, the equation is not symmetric with respect to the origin.}$  
+		$f(-x) \ne -f(x)$  		$\text{Since }f(-x) \ne -f(x)\text{, the equation is not symmetric with respect to the origin.}$  
 
 3. Graph:
 

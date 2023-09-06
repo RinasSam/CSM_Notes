@@ -33,3 +33,4 @@ For instance, $x^2$ is symmetric about the $y$ axis:
 - A function can only be symmetric with respect to the $y$ axis if and only if $f(x) = -f(x)$
 - A function can only be symmetric with respect to the origin if and only if $f(-x) = -f(x)$
 
+

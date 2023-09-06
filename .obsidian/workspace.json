@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d14dc7021f1c36e5",
+        "id": "f5ad02f830c1fe4c",
         "type": "tabs",
         "children": [
           {
-            "id": "586a44820788d23e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF_Exports/Calculus Chapter P.1 Homework.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "10ef9a8b772b9d63",
+            "id": "eb43688befa12552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World_Religions/W1/Shintoism.md",
+                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World_Religions/W1/Shintoism.md",
+                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World_Religions/W1/Shintoism.md",
+                "file": "Calculus/Homeworks/Chapter P.1 Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World_Religions/W1/Shintoism.md"
+                "file": "Calculus/Homeworks/Chapter P.1 Homework.md"
               }
             }
           }
@@ -160,16 +147,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "10ef9a8b772b9d63",
+  "active": "42c152c3711f5d19",
   "lastOpenFiles": [
+    "Calculus/W1/Chapter P.2.md",
+    "Calculus/Homeworks/Chapter P.1 Homework.md",
+    "World_Religions/W1/Shintoism.md",
     "World_Religions/W1",
     "README.md",
-    "World_Religions/W1/Shintoism.md",
     "World_Religions",
     "Literature/W1/Charles Dickens.md",
     "Calculus/Images/calc_graph_template.kra",
     "History/W1/The Discovery of The Americas.md",
-    "Calculus/Homeworks/Chapter P.1 Homework.md",
     "PDF_Exports/Calculus Chapter P.1 Homework.pdf",
     "Calculus/W1/Chapter P.1.md",
     "Health/W1/Puberty and Adolesence.md",
@@ -191,7 +179,6 @@
     "Calculus/Images/exercise_56_graph.png~",
     "Calculus/Images/exercise_24_graph.png~",
     "Health/Images",
-    "Calculus/Images/parabola_x2.png~",
     "Literature/W1/Victorian Period.md",
     "Untitled 1.canvas",
     "Untitled.canvas",

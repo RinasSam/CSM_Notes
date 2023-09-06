@@ -85,11 +85,11 @@ Here is a graph for reference:
 		$\{y = -\frac{10}{x^2 + 1}\} \ne \{y = \frac{10}{x^2 + 1}\}$  
 	Therefore, this equation is not symmetrical with respect to the $x$ axis.
 	
-	- $y$ axis symmetry test:
-		$y = \frac{10}{x^2 + 1} \text{, \ \ \ substitute } (-x) \text{ for x:}$
-		$y = \frac{10}{(-x)^2 + 1}$
-		$y = \frac{10}{x^2 + 1}$
-		$\{y = \frac{10}{x^2 + 1}\} = \{y = \frac{10}{x^2 + 1}\}$
+	- $y$ axis symmetry test:  
+		$y = \frac{10}{x^2 + 1} \text{, \ \ \ substitute } (-x) \text{ for x:}$  
+		$y = \frac{10}{(-x)^2 + 1}$  
+		$y = \frac{10}{x^2 + 1}$  
+		$\{y = \frac{10}{x^2 + 1}\} = \{y = \frac{10}{x^2 + 1}\}$  
 	Therefore, this equation is symmetrical with respect to the $y$ axis.  
 	  
 	- In fact, it is unnecessary to test for symmetry with respect to the origin now. And this is a proof why:  

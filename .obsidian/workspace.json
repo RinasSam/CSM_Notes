@@ -10,6 +10,18 @@
           {
             "id": "586a44820788d23e",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF_Exports/Calculus Chapter P.1 Homework.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "10ef9a8b772b9d63",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,16 +160,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "586a44820788d23e",
+  "active": "10ef9a8b772b9d63",
   "lastOpenFiles": [
     "PDF_Exports/Calculus Chapter P.1 Homework.pdf",
+    "Calculus/Homeworks/Chapter P.1 Homework.md",
     "History/W1/The Discovery of The Americas.md",
     "README.md",
     "Calculus/W1/Chapter P.1.md",
     "Health/W1/Puberty and Adolesence.md",
     "PDF_Exports/Calculus Chapter P.1.pdf",
     "Calculus/Images/cubic_x3-4x.png",
-    "Calculus/Homeworks/Chapter P.1 Homework.md",
     "Health/W1/Infancy and Childhood.md",
     "Literature/W1/Charles Dickens.md",
     "PDF Exports/Chapter P.1 Homework.md",

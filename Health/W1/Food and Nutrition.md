@@ -41,3 +41,25 @@ This intestine has mini **villi**, which are small projections which increase su
 In the large intestine, the undigested food has the water reabsorbed. The bacteria may ferment the food, but that does not concern us.
 
 
+## Basic Nutrients
+
+| Nutrients | Primary Function |
+| --- | --- |
+| Carbohydrates | Providing energy |
+| Proteins | Energy + Building blocks for the tissues |
+| Fats | Energy + insulation and body tissue building blocks
+| Vitamins | Necessary for proper enzyme function, growth, and body functions |
+| Minerals | Regulate body function, provide material for construction of bones and teeth, and necessary for muscle contractions |
+| Water | Medium for chemical reactions and transport of materials |
+
+
+## Macronutrients
+| Nutrient | Amount | Good Sources | Functions | Deficiency symptoms |
+| --- | -- | --- | --- | --- |
+| Carbohydrates | 130g/day (45-65%) | Fruits, vegetables, bread, cereal, rice, nuts, etc. | Provide energy for the body | Fatigue, poor digestion, Slow metabolism, shitty fat breakdown, etc |
+| Proteins | 46-52g/day (10-30%) | Meat, fish, poultry, milk ,cheese, nuts , eggs, beans, etc. | Broken down into amino acids which are used to make more proteins, and can be converted to carbohydrates for energy. | Fatigue, weight loss, immunity skill issue, slow healing, etc. |
+| Fats | 50-86g/day (25-35%) | Cooking oil, fish, nuts, seeds, butter, etc. | Important building block of cell membranes and steroid hormones, can be used to transport vitamins ADEK, insulates body, moisturizes the skin, and serves as a long-term energy source. | Dry skin, and keeps the body from using other nutrients |
+| Fiber | 25-31g/day | Fruits, vegetables, whole-grain products, nuts, etc. | Helps eliminate wastes and promotes healthy colon and bowel movements | Constipation, Higher chance of colon cancer, and intestinal tract inflammation |
+
+
+

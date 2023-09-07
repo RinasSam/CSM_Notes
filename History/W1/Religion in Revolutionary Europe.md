@@ -12,7 +12,7 @@ This all came to a boil when **Martin Luther**, a German monk, came in the 16th 
 Another man, French, by the name of **John Calvin**, came after Luther, also came and critiqued the Church. While many of his points were similar to Luther's, some of his were wildly different. For instance, Calvin popularized the belief of predestination: the idea that *no free will exists*, and that everyone's path is laid down from the beginning. Another important note is that Calvin wished to model the state after the religion, not having the religion succumb to the state. This gives off massive revolution energy (French people ong).
 
 
-## The Impact of Calvinism and Lutheranismu
+## The Impact of Calvinism and Lutheranism
 
 Both of these people were massively influential, and changed people's views around all of Europe. People's perspective on the Catholic Church shifted, and many religious reforms took place. For instance, King Henry VIII decided the Catholic Church was a load of dog water and stripped its power from Britain completely because he could not get a second wife to harbour a male heir (he still did not get a male heir after this, massive L). 
 

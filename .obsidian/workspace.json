@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/W1/Religion in Revolutionary Europe.md",
+                "file": "Literature/Assignments/CW1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/W1/Religion in Revolutionary Europe.md",
+                "file": "Literature/Assignments/CW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/W1/Religion in Revolutionary Europe.md",
+                "file": "Literature/Assignments/CW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/W1/Religion in Revolutionary Europe.md"
+                "file": "Literature/Assignments/CW1.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "b53ac8738ed02643",
   "lastOpenFiles": [
-    "History/W1/The Discovery of The Americas.md",
     "History/W1/Religion in Revolutionary Europe.md",
+    "Literature/Assignments/CW1.md",
+    "Literature/Assignments",
+    "History/W1/The Discovery of The Americas.md",
     "Calculus/Homeworks/Chapter P.1 Homework.md",
     "README.md",
     "World_Religions/W1/Shintoism.md",
@@ -180,7 +182,6 @@
     "PDF Exports/Chapter P.1 Homework-media/ff2bc6403fcfc9e5f8eceae70e616661fffc41d2.png",
     "PDF Exports/Chapter P.1 Homework-media",
     "PDF_Exports",
-    "Calculus/Images/exercise_56_graph.png~",
     "Literature/W1/Victorian Period.md",
     "Untitled 1.canvas",
     "Untitled.canvas",

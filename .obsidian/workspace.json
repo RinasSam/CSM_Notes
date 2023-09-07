@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Assignments/CW1.md",
+                "file": "History/W1/Religion in Revolutionary Europe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Assignments/CW1.md",
+                "file": "History/W1/Religion in Revolutionary Europe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Assignments/CW1.md",
+                "file": "History/W1/Religion in Revolutionary Europe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Assignments/CW1.md"
+                "file": "History/W1/Religion in Revolutionary Europe.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b53ac8738ed02643",
+  "active": "42c152c3711f5d19",
   "lastOpenFiles": [
-    "History/W1/Religion in Revolutionary Europe.md",
     "Literature/Assignments/CW1.md",
+    "History/W1/Religion in Revolutionary Europe.md",
     "Literature/Assignments",
     "History/W1/The Discovery of The Americas.md",
     "Calculus/Homeworks/Chapter P.1 Homework.md",

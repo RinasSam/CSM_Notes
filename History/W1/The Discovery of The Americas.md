@@ -33,3 +33,6 @@ The European love for exploration and trade was great, and as such, the peoples 
 The East had always been known as a place of great wealth and important resources. Silk, spices, and jewelry are such resources that the Europeans valued greatly. Nations such as France, England, Spain, and Portugal benefited greatly from trading with the East. However, with the rise of the Ottoman Empire, many trade routes were blocked or became economically nonviable. 
 
 These states could fund a new route to the East, and Columbus wanted to use that to find a route to India and the East, free of danger or interference from the Ottomans. Columbus had difficulty persuading rulers to fund him, as his idea was quite literally outlandish. Such a voyage is quite difficult, and there are many chances for failure. He was rejected by the British, Austrians, French, and Portuguese, but the Spanish agreed to fund him. On August 3, 1492, he set sail aboard the Santa Maria, and he was lucky as shit in surviving and getting to the Americas safely.
+
+
+## 

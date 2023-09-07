@@ -21,4 +21,36 @@ The Kami are quite varied, and there is one for each aspect of life. The prefere
 The Kami in Shintoism are **all-present** (omnipresent) and **all-knowing** (omniscient).
 
 
+## History of Shintoism
+
+
+In the 6th century BC, the name "Shinto" came to be. Originally, all the people had a similar way of life and religion. When Buddhism and Confucianism rose to popularity, the Shintos gave a name to their religion as a way to differentiate themselves from those two religious groups, despite them having many similarities.
+
+Shintoism initially lacked any form of scripture or written doctrines, and instead directed its attention to religious rituals and customs (actions > text).
+
+
+## Sacred Texts
+
+Shintoism does have scripture and sacred texts. One such text is the **Kojiki** (*Records of Ancient Matters*), the oldest surviving text, dating back to the 8th century BC. Another text is the **Nihon Shoki** (*Chronicles of Japan*), coming later but being far more detailed and elaborate than its predecessor.
+
+
+## Varieties of Shinto
+
+- **Shrine Shinto:** Focuses on worshipping Kami at shrines.
+- **Imperial Shinto:** Closely tied to the imperial family, ceremonies, and rituals.
+- **Folk Shinto:** Refers to the local beliefs.
+- **Sect Shinto:** Various sects or religious groups with distinct teachings and practices.
+- **Ancient Shinto:** The earliest form of Shinto, predating Buddhism and Confucianism (somehow it still is practiced).
+Each one had a preferred selection of Kami to worship (and a preferred selection of traits to give to them \[i.e. a different perspective on said Kami\]).
+
+
+## Random Quote (From The Himalayan Lust):
+
+>	*Any amount of thinking, any amount of philosophizing will not bring 
+	clarity into your mind. Only when your inner vision opens up, there’s 
+	perfect clarity. No situation or nobody in the world can distort this clarity 
+	within you. But the logical clarity that you create, anybody can distort it. 
+	Difficult situations can completely put it into turmoil.*
+
+We cannot rationalize the spiritual and religion. Logic and common sense is impossible to apply to such supernatural matters, because these techniques have their roots grounded in the real world. Since we are talking about a whole different realm of reality, we cannot rationalise. Instead, we must have faith.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/W1/The Discovery of The Americas.md",
+                "file": "History/W1/Religion in Revolutionary Europe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/W1/The Discovery of The Americas.md",
+                "file": "History/W1/Religion in Revolutionary Europe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/W1/The Discovery of The Americas.md",
+                "file": "History/W1/Religion in Revolutionary Europe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/W1/The Discovery of The Americas.md"
+                "file": "History/W1/Religion in Revolutionary Europe.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "b53ac8738ed02643",
   "lastOpenFiles": [
+    "History/W1/The Discovery of The Americas.md",
+    "History/W1/Religion in Revolutionary Europe.md",
     "Calculus/Homeworks/Chapter P.1 Homework.md",
     "README.md",
     "World_Religions/W1/Shintoism.md",
@@ -165,7 +167,6 @@
     "World_Religions",
     "Literature/W1/Charles Dickens.md",
     "Calculus/Images/calc_graph_template.kra",
-    "History/W1/The Discovery of The Americas.md",
     "PDF_Exports/Calculus Chapter P.1 Homework.pdf",
     "Health/W1/Puberty and Adolesence.md",
     "PDF_Exports/Calculus Chapter P.1.pdf",

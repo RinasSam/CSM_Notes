@@ -23,11 +23,19 @@ Vitamin deficiency can cause massive skill issues inside the body.
 | **Night Blindness** | Can't see at night (nfs) | Little Vitamin A |
 
 
-## Massive Chart of Vitamins, Sources, Functions, and Deficiency Symptoms:
+
+## Minerals:
+
+Minerals are micronutrients that do not need to be digested to be acquired (unlike Vitamins). They are divided into the following:
+- **Trace Elements** (such as Iron, Copper, Chromium, Selenium, Zinc, and Iodine)
+- **Raw Materials** (such as Calcium, Phosphorus, Magnesium)
+- **Electrolytes** (such as Sodium, Potassium, and Chloride)
+Lack of minerals causes massiver skill issues (Iron - Anemia, Calcium - Osteoporosis, Iodine - Hyper and Hypothyroidism)
+
+
+## Massive Chart of Vitamins, Minerals, Sources, Functions, and Deficiency Symptoms:
 
 ![ea_sports](https://i.pinimg.com/originals/dc/16/45/dc1645e42864886a48ce00a70e26588a.png)
-
-
 
 
 ## Notes:

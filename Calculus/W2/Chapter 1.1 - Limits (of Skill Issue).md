@@ -1,3 +1,5 @@
+
+*This file may look wrong if you are not using Obsidian. Please take a look at the [Calculus - Chapter 1.1](../../PDF_Exports/Calculus%20-%20Chapter%201.1.pdf) instead.*
 ## The Concept of The Limit: 
 
 Understanding the **idea** of a limit of extremely important to having a solid grasp on Calculus as a whole. And for this, we turn to the epic square:
@@ -11,6 +13,6 @@ $$\sum_{x = 1}^{+\infty} \frac{1}{2^x} = \frac{1}{2}+\frac{1}{4}+\frac{1}{8}+\fr
 
 Another example: the graph of $|\frac{1}{x}|$
 ![](../Images/abs_1_over_x_graph.png.png)
-We see that as $x$ approaches $0$, the value of $y$ explodes. At $0$, the function becomes $\frac{1}{0}$, which is undefined. *However, the limit of the function is $+\infty$.* Since the limit does not require us to *reach* a certain value, but only **approach** it, we can properly define the limit like so:
+We see that as $x$ approaches $0$, the value of $y$ explodes. At $0$, the function becomes $\frac{1}{0}$, which is undefined. *However, the limit of the function is* $+\infty$. Since the limit does not require us to *reach* a certain value, but only **approach** it, we can properly define the limit like so:
 $$\lim_{x \to 0} f(x) = |\frac{1}{x}| = +\infty$$ 
 

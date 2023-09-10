@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health/W1/Food and Nutrition.md",
+                "file": "Literature/W2/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Health/W1/Food and Nutrition.md",
+                "file": "Literature/W2/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Health/W1/Food and Nutrition.md",
+                "file": "Literature/W2/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Health/W1/Food and Nutrition.md"
+                "file": "Literature/W2/Chapter 1.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "b53ac8738ed02643",
   "lastOpenFiles": [
-    "Health/W1/Accessory Organs.md",
     "Health/W1/Food and Nutrition.md",
+    "Literature/W2/Chapter 1.md",
+    "Literature/W2",
+    "Health/W1/Accessory Organs.md",
     "History/W1/Religion in Revolutionary Europe.md",
     "Literature/Assignments/CW1.md",
     "Literature/Assignments",
@@ -182,7 +184,6 @@
     "PDF Exports/Chapter P.1 Homework-media/5dae3d6bd52e8f27c82ac99e86d43cdac2fbaf35.png",
     "PDF Exports/Chapter P.1 Homework-media/ff2bc6403fcfc9e5f8eceae70e616661fffc41d2.png",
     "PDF Exports/Chapter P.1 Homework-media",
-    "PDF_Exports",
     "Literature/W1/Victorian Period.md",
     "Untitled 1.canvas",
     "Untitled.canvas",

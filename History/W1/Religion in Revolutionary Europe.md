@@ -17,6 +17,10 @@ Another man, French, by the name of **John Calvin**, came after Luther, also cam
 
 ## The Impact of Calvinism and Lutheranism
 
-Both of these people were massively influential, and changed people's views around all of Europe. People's perspective on the Catholic Church shifted, and many religious reforms took place. For instance, King Henry VIII decided the Catholic Church was a load of dog water and stripped its power from Britain completely because he could not get a second wife to harbour a male heir (he still did not get a male heir after this, massive L). 
+Both of these people were massively influential, and changed people's views around all of Europe. People's perspective on the Catholic Church shifted, and many religious reforms took place. For instance, King Henry VIII decided the Catholic Church was a load of dog water and stripped its power from Britain completely because he could not get a second wife to harbour a male heir (he still did not get a male heir after this, massive L).
+
+(To quote the Bible):
+> **Matthew 19 - NLV:**
+> *11 But Jesus said to them, “Not all men are able to do this, but only those to whom it has been given. 12 For there are some men who from birth will never be able to have children. There are some men who have been made so by men. There are some men who have had themselves made that way because of the holy nation of heaven. The one who is able to do this, let him do it.”*
 
 It was only after two monarchs (Queen Mary and Elizabeth) that proper balance and Protestantism would be practiced in England. However, this version of Protestantism would not be set in stone. It was very flexible for the believers, allowing for many kinds of beliefs and practices to coexist.

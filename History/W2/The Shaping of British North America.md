@@ -1,1 +1,2 @@
 As stated in [Religion in Revolutionary Europe](../W1/Religion%20in%20Revolutionary%20Europe.md), the religious tensions in the region served as major catalysts for further conflict and disconnect in Europe. Monarch's and secular leaders were in constant conflicts with the Pope and the religious leaders.
+

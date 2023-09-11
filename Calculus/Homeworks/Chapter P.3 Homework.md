@@ -24,8 +24,8 @@ $\text{Range is } \{y \in \mathbb{R}\text{ }|\text{ }y \le 0\}$
 > Same as above but the function is:
 > $f(t) = sec\frac{\pi t}{4}$
 
-$$\text{Domain is } \{x \in \mathbb{R}\text{ } | \text{ } \cos{\frac{\pi x}{4}} \ne 0\} \text{ or } \{x \in \mathbb{R}\text{ } | \text{ } x \ne 4n + 2 \text{ } \forall \text{ } n \in \mathbb{Z} \}$$
-$$\text{Range is } \{y \in \mathbb{R}  \text{ and }a \in \mathbb{R}\text{} \text{ }| \text{ }y \notin \cos{a}\} \text{ or } \{y \in \mathbb{R}\text{ } | \text{ } y \ge 1 \text{ or } y \le -1\}$$
+$$\text{Domain is } \{t \in \mathbb{R}\text{ } | \text{ } \cos{\frac{\pi t}{4}} \ne 0\} \text{ or } \{t \in \mathbb{R}\text{ } | \text{ } t \ne 4n + 2 \text{ } \forall \text{ } n \in \mathbb{Z} \}$$
+$$\text{Range is } \{f(t) \in \mathbb{R}  \text{ and }a \in \mathbb{R}\text{} \text{ }| \text{ }f(t) \notin \cos{a}\} \text{ or } \{f(t) \in \mathbb{R}\text{ } | \text{ } f(t) \ge 1 \text{ or } f(t) \le -1\}$$
 
 
 ## Q24:

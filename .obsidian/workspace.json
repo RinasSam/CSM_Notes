@@ -11,12 +11,8 @@
             "id": "db4b183ce7ae2945",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Homeworks/Chapter P.3 Homework.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Homeworks/Chapter P.3 Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus/Homeworks/Chapter P.3 Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Calculus/Homeworks/Chapter P.3 Homework.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,15 +141,17 @@
   },
   "active": "db4b183ce7ae2945",
   "lastOpenFiles": [
+    "Chapter P.3 Homework.md",
+    "History/W1/The Discovery of The Americas.md",
+    "History/W1/Religion in Revolutionary Europe.md",
     "History/W2/The Shaping of British North America.md",
-    "Calculus/Images/calc_graph_template.kra~",
     "Calculus/Homeworks/Chapter P.3 Homework.md",
+    "Calculus/Images/calc_graph_template.kra~",
     "Calculus/Homeworks/Chapter P.2 Homework.md",
     "Calculus/W2/Chapter 1.1 - Limits (of Skill Issue).md",
     "Calculus/Homeworks/Chapter P.1 Homework.md",
     "PDF_Exports/Calculus Chapter P.2 Homework.pdf",
     "PDF_Exports/Calculus Chapter 1.1.pdf",
-    "Chapter P.3 Homework.md",
     "Calculus/Images/p2_e91_graph_(geometric_solution).png",
     "Calculus/Images/p2_e91_diagram_1.png",
     "Calculus/Images/p2_e28_graph.png",
@@ -178,14 +172,12 @@
     "Calculus/W1/Chapter P.2.md",
     "Calculus/Images/abs_1_over_x_graph.png.png",
     "Calculus/W2",
-    "History/W1/Religion in Revolutionary Europe.md",
     "README.md",
     "History/W2",
     "Literature/W2/Chapter 1.md",
     "Literature/W2",
     "Literature/Assignments/CW1.md",
     "Literature/Assignments",
-    "History/W1/The Discovery of The Americas.md",
     "World_Religions/W1/Shintoism.md",
     "Health/Images/peristalisis.png~",
     "Literature/W1/Charles Dickens.md",

@@ -9,7 +9,10 @@ However, as time would go on, people would grow to hate on the Church and its po
 
 This all came to a boil when **Martin Luther**, a German monk, came in the 16th century and criticized the Catholic Church, giving a list of 99 reasons as to why the Church sucked (especially when it came to being able to buy one's way to heaven \[tokhwa matry 3arz la bahasht ba 1000 dollar abe?\]). With Martin Luther's seminal work, a new branch or sect of Christianity emerged that protested against the Catholic Church, and they were dubbed now as **Protestants.** Luther argued that much of the practices and structures of the Church had been invented without proper reference to the basis of Christianity (the Bible, the Apostle's teachings, etc).
 
-Another man, French, by the name of **John Calvin**, came after Luther, also came and critiqued the Church. While many of his points were similar to Luther's, some of his were wildly different. For instance, Calvin popularized the belief of predestination: the idea that *no free will exists*, and that everyone's path is laid down from the beginning. Another important note is that Calvin wished to model the state after the religion, not having the religion succumb to the state. This gives off massive revolution energy (French people ong).
+Another man, French, by the name of **John Calvin**, came after Luther, also came and critiqued the Church. While many of his points were similar to Luther's, some of his were wildly different. 
+1. For instance, Calvin popularized the belief of predestination: the idea that *no free will exists*, and that everyone's path is laid down from the beginning. 
+2. Another important note is that Calvin wished to model the state after the religion, not having the religion succumb to the state. This gives off massive revolution energy (French people ong). 
+3. Most importantly, Calvin wished to strip the power and the hierarchy of the Church, priests, and the bishops, which was unlike Luther's ideas. Calvin advocated for the Church to be simple like the time of Jesus, and brought forth the idea of the people communicated with God and Jesus directly, without a mediator in between in the form of a priest or bishop. 
 
 
 ## The Impact of Calvinism and Lutheranism

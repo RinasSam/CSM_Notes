@@ -25,7 +25,7 @@ The European love for exploration and trade was great, and as such, the peoples 
 - Newly found lands often have large amounts of **riches** and treasure. Past explorers have written and spoken about the foreign treasures of the East, and this sparked the imaginations of the explorers who wished to make a profit out of their voyages.
 - New lands also are great places of **settlement**. New settlements can be great strategic positions to establish trade routes and control over more land. In addition, they can house more people more comfortably than the crowded cities of Europe.
 - Old trade routes can become expensive and dangerous over time as more people used them. New trade routes can be extremely profitable and if a nation can secure a trade route for itself, it becomes a powerful asset to their income.
-- Religious missions and glory.
+- Religious missions and glory. (More details available at [Religion in Revolutionary Europe](Religion%20in%20Revolutionary%20Europe.md))
 
 
 ## The Elusive East

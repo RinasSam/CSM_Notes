@@ -1,3 +1,7 @@
+# Homework for [Chapter P.2](../W1/Chapter%20P.2.md):
+*This file may look wrong if you are not using Obsidian. Please take a look at the [PDF export](../../PDF_Exports/Calculus%20Chapter%20P.2%20Homework.pdf) instead.*
+
+
 ## Q3:
 
 > Estimate the graph's slope:
@@ -45,12 +49,12 @@ Me when $0$ slope and $0$ as the $y$ intercept:
 > Show that the line with intercepts $(a, 0)$ and $(0, b)$ has the following equation: $$\frac{x}{a} + \frac{y}{b} = 1, a\ne 0, b\ne0$$
 
 Ahem:
-	$y\text{ intercept is when } x = 0$ 
-	$\frac{0}{a} + \frac{y}{b} = 1$
-	$y = b$
-	
+	$y\text{ intercept is when } x = 0$   
+	$\frac{0}{a} + \frac{y}{b} = 1$  
+	$y = b$  
+	  
 	$x\text{ intercept is when }y=0$
-	$\frac{x}{a} + \frac{0}{b} = 1$ 
+	$\frac{x}{a} + \frac{0}{b} = 1$
 	$x = a$ 
 	$QED.$
 

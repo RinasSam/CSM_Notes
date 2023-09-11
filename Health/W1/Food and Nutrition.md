@@ -54,6 +54,7 @@ In the large intestine, the undigested food has the water reabsorbed. The bacter
 
 
 ## Macronutrients
+
 | Nutrient | Amount | Good Sources | Functions | Deficiency symptoms |
 | --- | -- | --- | --- | --- |
 | Carbohydrates | 130g/day (45-65%) | Fruits, vegetables, bread, cereal, rice, nuts, etc. | Provide energy for the body | Fatigue, poor digestion, Slow metabolism, shitty fat breakdown, etc |
@@ -62,4 +63,12 @@ In the large intestine, the undigested food has the water reabsorbed. The bacter
 | Fiber | 25-31g/day | Fruits, vegetables, whole-grain products, nuts, etc. | Helps eliminate wastes and promotes healthy colon and bowel movements | Constipation, Higher chance of colon cancer, and intestinal tract inflammation |
 
 
+## Water
 
+Water is an essential substance for life, and has many functions for the body, including but not limited to:
+1. Transportation medium.
+2. Chemical reaction medium.
+3. Digestion aid.
+4. Waste removal.
+5. Body temperature homeostasis.
+6. Building and repairing cells.

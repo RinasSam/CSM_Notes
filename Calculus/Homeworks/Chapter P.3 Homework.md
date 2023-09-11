@@ -24,8 +24,19 @@ $\text{Range is } \{y \in \mathbb{R}\text{ }|\text{ }y \le 0\}$
 > Same as above but the function is:
 > $f(t) = sec\frac{\pi t}{4}$
 
-$\text{Domain is } \{x \in \mathbb{R}\text{ } | \text{ } cos\frac{\pi x}{4} \ne 0\} \text{ or } \{x \in \mathbb{R}\text{ and } N \in \mathbb{Z} \text{ } | \text{ } x \ne 4N + 2\}$
-$\text{Range is } \{y \in \mathbb{R}  \text{ and }a \in \mathbb{R}\text{} \text{ }| \text{ }y \notin cos(a)\} \text{ or } \{y \in \mathbb{R}\text{ } | \text{ } y \ge 1 \text{ or } y \le -1\}$
+$$\text{Domain is } \{x \in \mathbb{R}\text{ } | \text{ } \cos{\frac{\pi x}{4}} \ne 0\} \text{ or } \{x \in \mathbb{R}\text{ } | \text{ } x \ne 4n + 2 \text{ } \forall \text{ } n \in \mathbb{Z} \}$$
+$$\text{Range is } \{y \in \mathbb{R}  \text{ and }a \in \mathbb{R}\text{} \text{ }| \text{ }y \notin \cos{a}\} \text{ or } \{y \in \mathbb{R}\text{ } | \text{ } y \ge 1 \text{ or } y \le -1\}$$
+
+
+## Q24:
+> Same as above but only domain and the function is:
+> $$\frac{1}{\sin{x} - \frac{1}{2}}$$
+
+$$\text{Domain is }\{x \in \mathbb{R}\text{ }|\text{ }x \ne (\frac{\pi}{6} + 2n \pi) \text{ and } x \ne (\frac{5\pi}{6} + 2n \pi) \text{ } \forall \text{ } n \in \mathbb{z} \}$$
+
+
+## Q25:
+
 
 
 

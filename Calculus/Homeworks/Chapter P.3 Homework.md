@@ -22,13 +22,14 @@ $\text{Range is } \{y \in \mathbb{R}\text{ }|\text{ }y \le 0\}$
 
 ## Q17:
 > Same as above but the function is:
-> $f(t) = sec\frac{\pi t}{4}$
+> $$f(t) = sec\frac{\pi t}{4}$$
 
-$$\text{Domain is } \{t \in \mathbb{R}\text{ } | \text{ } \cos{\frac{\pi t}{4}} \ne 0\} \text{ or } \{t \in \mathbb{R}\text{ } | \text{ } t \ne 4n + 2 \text{ } \forall \text{ } n \in \mathbb{Z} \}$$
+$$\text{Domain is } \{t \in \mathbb{R}\text{ } | \text{ } \cos{\frac{\pi t}{4}} \ne 0\} \text{ or } \{t \in \mathbb{R}\text{ and } n \in \mathbb{Z} \text{ }| \text{ } t \ne 4n + 2  \}$$
 $$\text{Range is } \{f(t) \in \mathbb{R}  \text{ and }a \in \mathbb{R}\text{} \text{ }| \text{ }f(t) \notin \cos{a}\} \text{ or } \{f(t) \in \mathbb{R}\text{ } | \text{ } f(t) \ge 1 \text{ or } f(t) \le -1\}$$
 
 
 ## Q24:
+
 > Same as above but only domain and the function is:
 > $$\frac{1}{\sin{x} - \frac{1}{2}}$$
 
@@ -37,6 +38,10 @@ $$\text{Domain is }\{x \in \mathbb{R}\text{ }|\text{ }x \ne (\frac{\pi}{6} + 2n 
 
 ## Q25:
 
+> Same as above but the function is
+> $$\frac{1}{|x + 3|}$$
+
+$$\text{Domain is }\{x \in \mathbb{R}\text{ }|\text{ }x \ne -3\}$$
 
 
 

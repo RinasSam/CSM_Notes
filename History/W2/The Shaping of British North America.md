@@ -8,4 +8,4 @@ In the 1500s, the English were disrupting Spain's colonial goals, and so the Spa
 
 However, the colonists did not come prepared well for living in their colonies. The land was wildly different, and so were the people and the crops. It was rather difficult for them to even survive, let alone thrive. It was increasingly difficult to make a profit and they were on the verge of collapse. 
 
-This continued until they discovered tobacco, which became an economically stable and extremely profitable crop. This allowed them to actually survive and saved the colonies from being abandoned and collapsed.
+This continued until they discovered tobacco, which became an economically stable and extremely profitable crop. This allowed them to actually survive and saved the colonies from being abandoned and collapsed.1

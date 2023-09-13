@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health/W2/Micronutrients.md",
+                "file": "World_Religions/W2/Shintoism and Its Teachings.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e7e7296f8a440739",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Health/W2/Micronutrients.md",
+                "file": "World_Religions/W2/Shintoism and Its Teachings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Health/W2/Micronutrients.md",
+                "file": "World_Religions/W2/Shintoism and Its Teachings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Health/W2/Micronutrients.md"
+                "file": "World_Religions/W2/Shintoism and Its Teachings.md"
               }
             }
           },
@@ -168,13 +157,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7e7296f8a440739",
+  "active": "db4b183ce7ae2945",
   "lastOpenFiles": [
+    "World_Religions/W1/Shintoism.md",
+    "World_Religions/W2/Shintoism and Its Teachings.md",
+    "World_Religions/W2",
+    "Health/W2/Micronutrients.md",
     "History/W2/The Shaping of British North America.md",
     "Calculus/Homeworks/Chapter P.3 Homework.md",
     "Health/W2/Metabolism.md",
     "Health/W1/Food and Nutrition.md",
-    "Health/W2/Micronutrients.md",
     "History/W1/Religion in Revolutionary Europe.md",
     "Chapter P.3 Homework.md",
     "History/W1/The Discovery of The Americas.md",
@@ -208,15 +200,12 @@
     "Literature/W2",
     "Literature/Assignments/CW1.md",
     "Literature/Assignments",
-    "World_Religions/W1/Shintoism.md",
-    "Health/Images/peristalisis.png~",
     "Literature/W1/Charles Dickens.md",
     "Health/W1/Puberty and Adolesence.md",
     "PDF Exports/Chapter P.1 Homework.md",
     "Literature/W1/Victorian Period.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Drama/Introduction to Drama.md",
-    "GNU Free Documentation License.md"
+    "Drama/Introduction to Drama.md"
   ]
 }

@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7e7296f8a440739",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,16 @@
                 "file": "Health/W2/Micronutrients.md"
               }
             }
+          },
+          {
+            "id": "be17a0cbb0f6948b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -147,7 +168,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "db4b183ce7ae2945",
+  "active": "e7e7296f8a440739",
   "lastOpenFiles": [
     "History/W2/The Shaping of British North America.md",
     "Calculus/Homeworks/Chapter P.3 Homework.md",

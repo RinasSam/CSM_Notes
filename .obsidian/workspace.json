@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e68d601f10c8fe45",
+        "id": "6c52c3452cbff880",
         "type": "tabs",
         "children": [
           {
-            "id": "db4b183ce7ae2945",
+            "id": "1bd3a6691fe79017",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +157,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "db4b183ce7ae2945",
+  "active": "1bd3a6691fe79017",
   "lastOpenFiles": [
-    "World_Religions/W1/Shintoism.md",
     "World_Religions/W2/Shintoism and Its Teachings.md",
+    "World_Religions/W1/Shintoism.md",
     "World_Religions/W2",
     "Health/W2/Micronutrients.md",
     "History/W2/The Shaping of British North America.md",
